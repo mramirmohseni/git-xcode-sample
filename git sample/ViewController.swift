@@ -18,6 +18,9 @@ class ViewController: UIViewController {
         
         let chookoo = "chookoo"
         print(chookoo)
+        
+        let afsaneh = "afsaneh"
+        print(afsaneh)
         // Do any additional setup after loading the view, typically from a nib.
     }
 
